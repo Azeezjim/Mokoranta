@@ -1,0 +1,37 @@
+export default [
+    {
+        id:'1',
+        name:'All courses',
+        icon:''
+    },
+    {
+        id:'2',
+        name:'Design',
+        icon:''
+    },
+    {
+        id:'3',
+        name:'Coding',
+        icon:''
+    },
+    {
+        id:'4',
+        name:'Jamb',
+        icon:''
+    },
+    {
+        id:'5',
+        name:'Waec',
+        icon:''
+    },
+    {
+        id:'6',
+        name:'Neco',
+        icon:''
+    },
+    {
+        id:'7',
+        name:'SSCE',
+        icon:''
+    },
+]
